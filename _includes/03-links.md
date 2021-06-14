@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+! [Check out my HTML in Github] (https://adarsh62.github.io/intro-html/) 
