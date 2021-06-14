@@ -1,7 +1,7 @@
 ###  __Interests__
 
-- Drawing
-- Painting
-- Reading
-- Programming
-- Music
+- __Drawing__
+- __Painting__
+- __Reading__
+- __Programming__
+- __Music__
