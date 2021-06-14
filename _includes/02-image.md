@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Adarsh](https://avatars.githubusercontent.com/u/85457865?v=4)
