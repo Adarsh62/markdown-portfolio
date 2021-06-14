@@ -1,10 +1,10 @@
-### _Programming Languages Known_
+### __Programming Languages Known__
 - __C++__
 - __C__
 - __Java__
 - __MySQL__
 
-### _Soft Skills_
+### __Soft Skills__
 - __Leadership__
 - __Critical Thinking__
 - __Cooperative__
