@@ -1,6 +1,6 @@
-### __Interests__
+- [x]  __Interests__
 
--  Drawing
+- Drawing
 - Painting
 - Reading
 - Programming
